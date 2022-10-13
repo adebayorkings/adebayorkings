@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼 I'm Adebayor Kings. </h1>
+<h1 align="center">Hi 👋🏼 I'm Anyahuru Kingsley Kelechi(Adebayor Kings.) </h1>
 <h3 align="left">
 An ICT Consultant, a Communicator and a Facilitator extraordinaire. Having developed love for Computers at a time when Computer Studies was made mandatory for all primary and secondary schools in old Lagos state, he graduate from secondary school as the Best Computer Studies student after which he pursued Computer Science at degree level in Michael Okpara University of Agriculture, Umudike, Abia State and bagged a Bachelor of Science (B. Sc. Computer Science) Degree from the Department of Mathematics/Statistics and Computer Science. Currently he is a handling Sessions on Computer Maintenance and Installations in Michael Okpara University of Agriculture, Umudike, Management Information System in Association of National Accountants of Nigeria (ANAN), Umuahia Centre and Gemstone Multi-system solutions as a Facilitator.
 </h3>
@@ -28,7 +28,3 @@ Adebayor is an On-air Personality and also an excellent public/consultative spea
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adebayorkings&show_icons=true&locale=en&layout=compact" alt="adebayorkings" /></p> -->
 
 <hr/>
-
-[![Twitter Badge](https://img.shields.io/badge/-Adebayor-Kings-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/adebayorkings)](https://twitter.com/adebayorkings) [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
-
-## [Click here to view CV](https://docs.google.com/document/d/10c7HOsf_fLPcYBBi2V-1fT9jvJWIkA-MpZfEYMCKLzY/edit?usp=sharing)
